@@ -28,6 +28,6 @@ O código consiste em uma demonstração do Algoritmo de Peterson utilizando Mut
 
 Por fim, este programa recebe um número e um número de threads do usuário e calcula o fatorial do número. Não foi utilizada exclusão mútua, visto ser desnecessário e criar erros para tratar.
 
-Atividades realizadas por:
-Felippe Gouget da Costa Dourado  202001208925
+Atividades realizadas por: <br>
+Felippe Gouget da Costa Dourado  202001208925 <br>
 Miguel Alencar Rosa Teixeira Mendes  202001086731
